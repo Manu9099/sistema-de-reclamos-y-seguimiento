@@ -1,5 +1,5 @@
 # 📋 Sistema de Reclamos y Seguimiento
-Proyecto Full Stack desarrollado como práctica profesional, enfocado en la gestión de reclamos con autenticación, roles y seguimiento de estados.
+Proyecto Full Stack desarrollado para empresa immobiliaria, enfocado en la gestión de reclamos con autenticación, roles y seguimiento de estados.
 
 >  Proyecto en desarrollo – algunos flujos de autenticación están siendo ajustados.
 
